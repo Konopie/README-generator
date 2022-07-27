@@ -20,6 +20,6 @@
         ##Tests
         npm jest
         ##Questions
-        GitHub: Knopie
+        GitHub: Konopie
         email: codycooper06@gmail.com
         
