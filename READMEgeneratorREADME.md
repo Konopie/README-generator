@@ -1,4 +1,4 @@
-# Title 
+# READMEgenerator 
 
         * [Description](#description)
         * [Installation](#installation)
@@ -8,17 +8,17 @@
         * [Questions](#github)
 
         ##Description 
-        Description
+        It generates a README file through inquirer command prompts
         ##Installation
         git clone
         ##Usage
-        any
+        terminal
         ##License
         N/A
         ##Contribution
-        any
-        ##Tests
         N/A
+        ##Tests
+        npm jest
         ##Questions
         GitHub: Konopie
         email: codycooper06@gmail.com
