@@ -8,17 +8,17 @@
         * [Questions](#github)
 
         ##Description 
-        It generates a README file through inquirer command prompts
+        It generates a readme through inquirer prompts
         ##Installation
         git clone
         ##Usage
-        terminal
+        command line
         ##License
         N/A
         ##Contribution
         N/A
         ##Tests
-        npm jest
+        N/
         ##Questions
         GitHub: Konopie
         email: codycooper06@gmail.com
