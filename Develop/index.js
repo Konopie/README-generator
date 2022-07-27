@@ -113,7 +113,7 @@ const promptUser = () => {
 function writeToFile(fileName, data) {
     console.log(fileName, data)
     // must be called README.md for github to load it on page
-    fs.writeFile(`./README.md`, data,(err)=>{
+    fs.writeFile(`../README.md`, data,(err)=>{
         if(err){
             console.log(err)
         }
