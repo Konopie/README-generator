@@ -6,8 +6,8 @@
         * [License](#license)
         * [Contribution](#contribution)
         * [Questions](#github)
-        
-        chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/6e25d08d-c798-4337-y145-3b945079c5c4
+       
+        https://drive.google.com/file/d/1C2TCrxIc4W95_6uSU10uExSDbm-ft2h9/view
 
         ##Description 
         it generates a readme based on iquirer prompts 
